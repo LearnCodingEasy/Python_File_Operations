@@ -37,6 +37,7 @@ pip install rich
 ┃ ┃ ┃ ┃ ┗ 📜script.js
 ┃ ┃ ┣ 📜index.html
 ```
+
 # Preview Website Image
 
-![This is an image](https://raw.githubusercontent.com/LearnCodingEasy/Python_File_Operations/refs/heads/main/messenger_vue/src/assets/Images/Login_white.png)
+![This is an image](https://raw.githubusercontent.com/LearnCodingEasy/Python_File_Operations/refs/heads/main/Design/Image/Python_File_Operations.png)
