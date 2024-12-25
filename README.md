@@ -16,7 +16,7 @@ Python File Operations
 ┃ ┃ ┣ 📂js
 ```
 
-#### ✨ مكتبة لإظهار النصوص الملونة والمُنسّقة فى الكونصال
+#### ✨ Library to display colored and formatted texts in the console
 
 ```
 pip install rich
