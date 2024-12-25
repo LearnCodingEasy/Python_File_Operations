@@ -2,6 +2,7 @@
 
 Python File Operations
 
+```
 📂Design
 ┃ ┗ 📜File.py
 ┃ ┗ 📂Design
@@ -13,6 +14,7 @@ Python File Operations
 ┃ ┃ ┃ ┃ ┃ ┗ 📜File_will_delete.scss
 ┃ ┃ ┣ 📂Data
 ┃ ┃ ┣ 📂js
+```
 
 #### ✨ مكتبة لإظهار النصوص الملونة والمُنسّقة فى الكونصال
 
@@ -20,6 +22,7 @@ Python File Operations
 pip install rich
 ```
 
+```
 📂Design
 ┃ ┗ 📜File.py
 ┃ ┗ 📂Design
@@ -33,3 +36,4 @@ pip install rich
 ┃ ┃ ┃ ┃ ┗ 📜destination.json
 ┃ ┃ ┃ ┃ ┗ 📜script.js
 ┃ ┃ ┣ 📜index.html
+```
