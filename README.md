@@ -41,3 +41,8 @@ pip install rich
 # Preview Website Image
 
 ![This is an image](https://raw.githubusercontent.com/LearnCodingEasy/Python_File_Operations/refs/heads/main/Design/Image/Python_File_Operations.png)
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 07fded91777914a2dbbaa2af1ec388b756f68e4d
